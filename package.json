@@ -18,7 +18,7 @@
     "@badeball/cypress-cucumber-preprocessor": "^14.0.0",
     "@cypress/webpack-preprocessor": "^5.15.5"
   },
-  "cypress-cucumber-preprocessor": {
+  "@badeball/cypress-cucumber-preprocessor": {
     "nonGlobalStepDefintions": true
   }
 }
